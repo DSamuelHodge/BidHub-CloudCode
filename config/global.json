@@ -1,11 +1,11 @@
 {
     "applications": {
-        "<your app name>": {
-            "applicationId": "<your app id>",
-            "masterKey": "<your master key>"
+        "<bid_application>": {
+            "applicationId": "<Bj03NV3eIwsL4zBKOc6QZ6CrFXyuXuNOeHbAh2Fc>",
+            "masterKey": "<wPPW5JiwwhsEavKkyGXaAgGYlnGjax3cV7QHII0y>"
         }, 
         "_default": {
-            "link": "<your app name>"
+            "link": "<bid_application"
         }
     }, 
     "global": {
